@@ -13,3 +13,4 @@ fun main() {
     println("Result for 12: ${getNumber("12")}")
     println("Result for a1as: ${getNumber("a1as")}")
 }
+
